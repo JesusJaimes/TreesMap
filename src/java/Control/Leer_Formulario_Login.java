@@ -46,7 +46,7 @@ public class Leer_Formulario_Login extends HttpServlet {
                 }
             }
         }else{
-            response.sendRedirect("index.html");
+            response.sendRedirect("index.jsp");
         }
         
     }

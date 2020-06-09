@@ -26,10 +26,10 @@ and open the template in the editor.
             <form action="leer_formulario_login.do" method="POST" id="form-iniciar-sesion">
                 <h2 style="font-weight: bolder;">Iniciar sesión</h2>
                 <img src="./imagenes/treemap.jpeg" id="logo">
-                <input type="text" placeholder="Ingresa Usuario" name="user" id="nombre" value="romariojaimes@gmail.com" required/>
+                <input type="text" placeholder="Ingresa Usuario" name="user" id="nombre" value="" required/>
                 <br>
                 <br>
-                <input type="password" placeholder="Ingresa Contraseña" name="password" id="Contraseña" value="54321" required/>
+                <input type="password" placeholder="Ingresa Contraseña" name="password" id="Contraseña" value="" required/>
                 <br>
                 <br>
                 <button type="submit" class="button-login" id="button-iniciar-sesion">Iniciar Sesión</button>

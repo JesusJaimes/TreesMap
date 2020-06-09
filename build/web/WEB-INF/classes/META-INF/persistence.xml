@@ -13,10 +13,10 @@
     <class>Modelo.CodigoRecuperacion</class>
     <exclude-unlisted-classes>false</exclude-unlisted-classes>
     <properties>
-      <property name="javax.persistence.jdbc.url" value="jdbc:postgresql://localhost:5432/treemaps"/>
-      <property name="javax.persistence.jdbc.user" value="postgres"/>
+      <property name="javax.persistence.jdbc.url" value="jdbc:postgresql://ec2-54-161-208-31.compute-1.amazonaws.com:5432/d7is7g9it4tjdf"/>
+      <property name="javax.persistence.jdbc.user" value="fpzgxwiuojdcwc"/>
       <property name="javax.persistence.jdbc.driver" value="org.postgresql.Driver"/>
-      <property name="javax.persistence.jdbc.password" value="sushi"/>
+      <property name="javax.persistence.jdbc.password" value="0ab9c6f318e4cf2e6bc8f3094f2ff0b1da12f525f258e47a47e22beb7ecab834"/>
       <property name="javax.persistence.schema-generation.database.action" value="create"/>
     </properties>
   </persistence-unit>
